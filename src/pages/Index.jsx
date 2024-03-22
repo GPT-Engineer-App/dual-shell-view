@@ -10,7 +10,7 @@ const Index = () => {
         {/* Sidebar */}
         <VStack spacing={8} p={4} align="left">
           <Icon as={FaCloud} color="teal.400" boxSize={8} />
-          <VStack spacing={4} mt={8}>
+          <VStack spacing={4}>
             <Icon as={FaUser} color="white" />
             <Icon as={FaCommentAlt} color="white" />
             <Icon as={FaBell} color="white" />
